@@ -14,7 +14,7 @@ Version 0.01
 
 =cut
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 
 =head1 SYNOPSIS
@@ -137,5 +137,6 @@ EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 =cut
+dfklsajf;
 
 1; # End of Acme::MyFirstModule::NANDO
